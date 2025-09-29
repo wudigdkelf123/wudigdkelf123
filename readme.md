@@ -1,4 +1,4 @@
-<h1 align="center">👋🏻 Hi, I'm Victor Wiggins</h1>
+<h1 align="center">👋🏻 Hi, I'm pedro.</h1>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=berthutapea&label=Profile%20views&color=0e75b6&style=flat" alt="berthutapea" /> 
