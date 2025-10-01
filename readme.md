@@ -1,218 +1,330 @@
-<h1 align="center">👋🏻 Hi, I'm Smith.</h1>
-<div align="center">
+<!--Banner-->
+![Kiran1689 Banner Image](./banner.png)
 
-[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/jdg2896)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
-
-
-[![Gmail](https://skillicons.dev/icons?i=gmail)](https://drive.google.com/drive/folders/1MBaPrShU0vMvg3m4OliMyWV_S8DpwSWU)
-
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
-### 🛠 &nbsp;Languages and Tools
 
-## 🏆 My Stats:
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
+*Digital Craftsman (Developer / Programmer)*
+<br /> 
 
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jdg2896&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdg2896&layout=compact&theme=dark" />&nbsp;&nbsp;
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
+- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
+- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
+- ❤ Contributing to Open Source.
+- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
-### 🛠 &nbsp;Languages and Tools
+---
 
-<table>
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+</ul>
+  
+<h3 align="left">Latest Blog Posts</h3>
+<ul align="left">
+  <li><a href="https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖</a></li>
+  <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in <1 min🙂</a></li>
+  <li><a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
+</ul>
+<br />
+<br />
+<br />
+<br />
+
+
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/Kiran1689">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Kiran1689&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/daytonaio/daytona">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/Kiran1689/achievements?format=svg&limit=6"
+      width="400"
+    />
+  </a>
+</p>
+<br />
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-	        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
+  </tr>
   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689/storyblok-mcp-server">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
- <tr>
+  </tr>
 </table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-
-[![Hello World, I'm Ronny!](assets/header.gif)](https://github.com/jdg2896)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
-
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jdg2896) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
-
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
-## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d):
+---
 
-<p>
-    <a target="_blank"href="https://www.gitpoap.io/gp/893"><img height=175 alt="Taiko GitHub Contributor 2023" src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap3a-2023-taiko-contributor-2022-logo-1671723111328.png&w=750&q=75" />&nbsp;&nbsp;
-    <a target="_blank"href="https://www.gitpoap.io/gp/879"><img height=175 alt="Ethereum.org GitHub Contributor 2023" src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap3a-2023-ethereumorg-contributor-2022-logo-1671568487547.png&w=750&q=75" />&nbsp;&nbsp;
-    <a target="_blank"href="https://poap.gallery/event/128736"><img height=175 alt="ZK-Roller-Coaster Taiko Research Contributor" src="https://assets.poap.xyz/taiko-research-contributors-2023-logo-1685987761596.png" />&nbsp;&nbsp;
-    <a target="_blank" href="https://collectors.poap.xyz/en-US/token/6673781"><img height=175 alt="Double Your DeFi Cohort 2: May 2023" src="https://assets.poap.xyz/0c6eaacb-d527-479b-8a0e-d9e60726851d.png" />&nbsp;&nbsp;
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Herbert%20Hoover&quote=Loyalty%20and%20friendship%20are%20the%20most%20precious%20possessions%20a%20man%20can%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:kirannaragund197@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/kiran__a__n" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/kiran_a_n" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/Kiran1689" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://dev.to/dev_kiran" target="_blank">
+<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>
+
+<!--Buy me a coffee-->
+<div align="center">
+<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</div>
+
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
-## 🎮 When I'm AFK:
-
-![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
-![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp;
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
-![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
-
-</div>
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=berthutapea&label=Profile%20views&color=0e75b6&style=flat" alt="berthutapea" /> 
-<img src="https://img.shields.io/github/followers/berthutapea" alt="berthutapea" /> 
-</p><br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&vCenter=true&height=60&lines=A+Senior+Full+Stack+Developer;A+MERN+Stack+Developer;A+React+JS+Developer;)](https://git.io/typing-svg)
-
-## 👓 Here's some fun facts about me:
-
-- ✨ I am a Full Stack Developer (MERN) with having 8+ years of experience.
-- ⚡️ I am capable to solve working problems.
-- 💫 Passionate about learning & development to reach the target.
-- 🚀 My next mission is to become a Senior Software Engineer.
-- 💥 I would love to build some Giant Website.
-- 📫 My major is Computer Science & Technology.
-- 💬 Keep me in your touch : jeremyavant93@gmail.com
-
-  <br><br>
-
-## ✨ Technologies & Tools:
-
-<p align="left">
-
-<!-- Front End -->
-<img src="https://img.shields.io/badge/Next JS-282C34?logo=nextdotjs" alt="Next JS logo" title="Next JS" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/React JS-282C34?logo=react&logoColor=61DAFB" alt="React JS logo" title="React JS" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Tailwind CSS-282C34?logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=06B6" alt="SASS logo" title="Sass" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Material UI-282C34?logo=mui&logoColor=007FFF" alt="Material UI logo" title="Material UI" height="25" />
-&nbsp;
-
-<br>
-<br>
-
-<!-- Back End -->
-<img src="https://img.shields.io/badge/Node JS-282C34?logo=node.js&logoColor=339933" alt="Node JS logo" title="Node JS" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma" alt="Prisma logo" title="Prisma" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Express JS-282C34?logo=express&logoColor=000000" alt="Express JS logo" title="Express JS" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4169" alt="MySQL logo" title="MySQL" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=F24E1E" alt="Firebase logo" title="Firebase" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Passport JS-282C34?logo=passport&logoColor=34E27A" alt="Passport JS logo" title="Passport JS" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Stripe-282C34?logo=stripe&logoColor=008CDD" alt="Stripe logo" title="Stripe" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=FF6C37" alt="Jest logo" title="Jest" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Babel-282C34?logo=babel&logoColor=F7DF1E" alt="Babel logo" title="Babel" height="25" />
-&nbsp;
-
-<br>
-<br>
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Google Cloud-282C34?logo=googlecloud&logoColor=" alt="Google Cloud logo" title="Google Cloud" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Digital Ocean-282C34?logo=digitalocean&logoColor=0080FF" alt="Digital Ocean logo" title="Digital Ocean" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/VS Code-282C34?logo=visualstudiocode&logoColor=007ACC" alt="VS Code logo" title="VS Code" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Jira-282C34?logo=jirasoftware&logoColor=0052CC" alt="Jira logo" title="Jira" height="25" />
-&nbsp;
-
-</p><br>
-
-## 🔥 GitHub Stats
-
-<div align="center">  
-    <img src="https://github-readme-stats.vercel.app/api?username=berthutapea&show_icons=true&theme=transparent&border_color=454545" alt="" />
-    &nbsp;
-    <img src="https://streak-stats.demolab.com?user=berthutapea&theme=transparent&border=454545&date_format=j%20M%5B%20Y%5D" alt="" />
-</div>
-
-<br>
-<br>
-
-## 📊 Language Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berthutapea&layout=donut-vertical&theme=transparent&border_color=454545" alt="" />
-</div>
