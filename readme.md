@@ -1,4 +1,4 @@
-<h1 align="center">👋🏻 Hi, I'm pedro.</h1>
+<h1 align="center">👋🏻 Hi, I'm Smith.</h1>
 <div align="center">
 
 [![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/jdg2896)
