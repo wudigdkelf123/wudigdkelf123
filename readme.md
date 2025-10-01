@@ -3,8 +3,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, Django, RDBMS, Data Visualization and etc. 
-                I might be a Blockchain master.</p>
+<p align="left">I am a Full Stack Developer,Blockchain master and Machine Learning Enthusiast with a huge love for Python, Django, RDBMS, Data Visualization and etc.</p>
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
