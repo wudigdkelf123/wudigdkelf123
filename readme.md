@@ -28,8 +28,9 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
+  <li>Improving highly MERN Stack techniques</li>
   <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Exploring advanced Blockchain and state management techniques.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
   
