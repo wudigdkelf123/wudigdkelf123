@@ -3,7 +3,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for MERN, Blockchain, javascript, Python, Django, RDBMS and Data Visualization. 
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Blockchain, javascript, Python, Django, RDBMS and Data Visualization. 
                 I might be a Blockchain master.</p>
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
