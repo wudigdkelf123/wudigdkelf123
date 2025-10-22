@@ -5,7 +5,7 @@
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer,Blockchain master and Machine Learning Enthusiast with a huge love for Python, Django, RDBMS, Data Visualization and etc.</p>
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://agent-68f90235ae6156d6b2--lovely-platypus-ac5999.netlify.app/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
