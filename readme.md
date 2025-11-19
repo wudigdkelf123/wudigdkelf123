@@ -1,9 +1,9 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm a software engineer. 
-*Digital Craftsman (Developer / Programmer)*
+*Digital Craftsman (Developer / PM)*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer,Blockchain master and Machine Learning Enthusiast with a huge love for Python, Django, RDBMS, Data Visualization and etc.</p>
+<p align="left">I am a Full Stack Developer,Blockchain follower and Machine Learning Enthusiast with a huge love for Python, Django, RDBMS, Data Visualization and etc.</p>
 
 <!--Profile Count Badge-->
 
