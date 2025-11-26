@@ -3,7 +3,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer,Blockchain follower and Machine Learning Enthusiast with a huge love for Python, Django, RDBMS, Data Visualization and etc.</p>
+<p align="left">I am a PM and Machine Learning Enthusiast with a huge love for Python, Django, RDBMS, Data Visualization and etc.</p>
 
 <!--Profile Count Badge-->
 
